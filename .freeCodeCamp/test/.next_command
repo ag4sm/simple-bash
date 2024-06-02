@@ -70,3 +70,5 @@ clear
 ./questionnaire.sh
 ./questionnaire.sh
 echo --help
+echo --help
+man echo
