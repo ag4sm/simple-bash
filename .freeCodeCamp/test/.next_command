@@ -127,3 +127,4 @@ help if
 ./countdown.sh arg1
 ./countdown.sh test
 ./countdown.sh test
+./countdown.sh 4
