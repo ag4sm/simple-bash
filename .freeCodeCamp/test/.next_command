@@ -129,3 +129,5 @@ help if
 ./countdown.sh test
 ./countdown.sh 4
 ./countdown.sh 5
+help if
+help
