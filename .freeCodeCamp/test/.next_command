@@ -132,3 +132,6 @@ help if
 help if
 help
 help [[ expression ]]
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+help test
