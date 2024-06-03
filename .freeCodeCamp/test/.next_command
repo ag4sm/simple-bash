@@ -279,3 +279,6 @@ help [[
 ./countdown.sh
 ./countdown.sh 1
 ./countdown.sh -1
+./countdown.sh 3
+help if
+help
