@@ -396,3 +396,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 I-0
 I=0
+echo $i
+echo $I
