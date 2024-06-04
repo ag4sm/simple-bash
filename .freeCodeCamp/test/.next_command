@@ -363,3 +363,4 @@ clearl
 clear
 echo LANG
 echo $LANG
+declare -p
