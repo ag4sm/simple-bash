@@ -408,3 +408,4 @@ __vsc_prompt_cmd_original
 echo $I
 clear
 $(( I + 4 ))
+echo $(( I + 4 ))
