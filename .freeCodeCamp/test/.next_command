@@ -402,3 +402,6 @@ echo $I
 echo I
 echo $I
 help let
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+(( I += 10 ))
