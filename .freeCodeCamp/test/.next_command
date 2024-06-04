@@ -399,3 +399,5 @@ I=0
 echo $i
 echo $I
 (( I++ ))
+echo I
+echo $I
