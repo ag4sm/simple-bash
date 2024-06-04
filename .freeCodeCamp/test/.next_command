@@ -406,3 +406,5 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 (( I += 10 ))
 echo $I
+clear
+$(( I + 4 ))
