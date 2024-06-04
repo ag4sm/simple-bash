@@ -409,3 +409,4 @@ echo $I
 clear
 $(( I + 4 ))
 echo $(( I + 4 ))
+echo $I
