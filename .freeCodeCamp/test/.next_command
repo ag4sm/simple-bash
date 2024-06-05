@@ -565,3 +565,7 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ARR=("a" "b" "c")
 ARR=("a" "b" "c")
 echo ${ARR[1]}
+echo $*
+echo bingo.sh countdown.sh fortune.sh questionnaire.sh
+echo @
+echo ${ARR[*]}
