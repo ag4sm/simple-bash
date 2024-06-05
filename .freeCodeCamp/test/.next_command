@@ -506,3 +506,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo $(( RANDOM % 75 ))
 echo $(( RANDOM % 75 + 1 ))
+./bingo.sh
+./bingo.sh
