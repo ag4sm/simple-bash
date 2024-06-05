@@ -607,3 +607,4 @@ help
 __vsc_prompt_cmd_original
 help until
 ./fortune.sh
+help [[ expression ]]
