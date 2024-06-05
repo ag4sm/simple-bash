@@ -514,3 +514,6 @@ help let
 help text
 help TEXT
 help test
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+help let
