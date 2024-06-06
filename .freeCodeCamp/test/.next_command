@@ -625,3 +625,6 @@ echo $VAR
 [[ $VAR == \?$ ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+cler
+clear
+./fortune.sh
