@@ -665,3 +665,4 @@ __vsc_prompt_cmd_original
 help
 help type
 type echo
+type read
