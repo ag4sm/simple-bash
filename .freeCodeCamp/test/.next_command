@@ -661,3 +661,5 @@ chmod +x five.sh
 clearl
 clear
 ./five.sh
+__vsc_prompt_cmd_original
+help
